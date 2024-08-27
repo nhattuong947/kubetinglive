@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Kubet - kubeting.live - Thương Hiệu Đổi Thưởng Hàng Đầu Đông Nam Á Với Trải Nghiệm Cá Cược Đẳng Cấp
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Kubet <https://kubeting.live/>`_ là một trong những thương hiệu đổi thưởng trực tuyến uy tín hàng đầu tại khu vực Đông Nam Á. Thành lập từ năm 2003 và chính thức hoạt động tại Việt Nam từ năm 2012, Kubet nhanh chóng khẳng định vị thế của mình với hơn 10 năm kinh nghiệm trong ngành giải trí trực tuyến. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Được cấp phép bởi PAGCOR và sở hữu hệ thống bảo mật tiên tiến, Kubet cung cấp một trải nghiệm cá cược an toàn và chất lượng. Với những ưu điểm nổi bật này, Kubet xứng đáng là sự lựa chọn hàng đầu cho những ai yêu thích giải trí trực tuyến.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 66/59A Ấp 3, Xuân Thới Thượng, Hóc Môn, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0895510245. 
 
-.. toctree::
+Email: info@kubeting.live.
 
-   usage
-   api
+Website: https://kubeting.live/
+
+#kubet #nhacaikubet #trangchukubet #dangkykubet #linkkubet
